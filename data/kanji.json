@@ -1,0 +1,51 @@
+{
+    "Kanjis":[
+        { "title": "1 & 2","level": "Level 1", "id": 1, "char":"一",  "hiragana": "ひと(つ), (いち)", "define": "- one" },
+        { "title": "1 & 2","level": "Level 1", "id": 2, "char":"ニ", "hiragana": "ふ, (に)", "define": "- two" },
+        { "title": "1 & 2","level": "Level 1", "id": 3, "char":"三", "hiragana": "(さん)", "define": "- three" },
+        { "title": "1 & 2","level": "Level 1", "id": 4, "char":"四", "hiragana": "(し, よ, よん)", "define": "- four" },
+        { "title": "1 & 2","level": "Level 1", "id": 5, "char":"五", "hiragana": "(ご)", "define": "- five" },
+        { "title": "1 & 2","level": "Level 1", "id": 6, "char":"六", "hiragana": "(ろく)", "define": "- six" },
+        { "title": "1 & 2","level": "Level 1", "id": 7, "char":"七", "hiragana": "(しち, なな)", "define": "- seven" },
+        { "title": "1 & 2","level": "Level 1", "id": 8, "char":"八", "hiragana": "(はち)", "define": "- eight" },
+        { "title": "1 & 2","level": "Level 1", "id": 9, "char":"九", "hiragana": "(きゅう, く)", "define": "- nine" },
+        { "title": "1 & 2","level": "Level 1", "id": 10, "char":"十", "hiragana": "(じゅう)", "define": "- ten" },
+
+        { "title": "1 & 2","level": "Level 2", "id": 11, "char":"日",  "hiragana": "(にち, び, ひ)", "define": "- sun, - day" },
+        { "title": "1 & 2","level": "Level 2", "id": 12, "char":"月", "hiragana": "つき, (げつ, がつ)", "define": "- moon, - month" },
+        { "title": "1 & 2","level": "Level 2", "id": 13, "char":"火", "hiragana": "(か, ひ)", "define": "- fire" },
+        { "title": "1 & 2","level": "Level 2", "id": 14, "char":"水", "hiragana": "(すい, みず)", "define": "- water" },
+        { "title": "1 & 2","level": "Level 2", "id": 15, "char":"木", "hiragana": "(もく, き)", "define": "- tree" },
+        { "title": "1 & 2","level": "Level 2", "id": 16, "char":"金", "hiragana": "(きん, かね)", "define": "- money, - gold" },
+        { "title": "1 & 2","level": "Level 2", "id": 17, "char":"土", "hiragana": "(ど, つち)", "define": "- ground, - soil" },
+        { "title": "1 & 2","level": "Level 2", "id": 18, "char":"今", "hiragana": "(いま, こん)", "define": "- now" },
+        { "title": "1 & 2","level": "Level 2", "id": 19, "char":"半", "hiragana": "(はん)", "define": "- a half" },
+        { "title": "1 & 2","level": "Level 2", "id": 20, "char":"時", "hiragana": "(じ, と, とき)", "define": "- hour, time" },
+
+        { "title": "3 & 4","level": "Level 3", "id": 21, "char":"TESTING",  "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 22, "char":"ニ", "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 23, "char":"三", "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 24, "char":"四", "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 25, "char":"五", "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 26, "char":"六", "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 27, "char":"七", "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 28, "char":"八", "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 29, "char":"九", "hiragana": "", "define": "" },
+        { "title": "3 & 4","level": "Level 3", "id": 30, "char":"十", "hiragana": "", "define": "" },
+
+        { "title": "3 & 4","level": "Level 4", "id": 31, "char":"日",  "hiragana": "(にち, び, ひ)", "define": "- sun, - day" },
+        { "title": "3 & 4","level": "Level 4", "id": 32, "char":"月", "hiragana": "つき, (げつ, がつ)", "define": "- moon, - month" },
+        { "title": "3 & 4","level": "Level 4", "id": 33, "char":"火", "hiragana": "(か, ひ)", "define": "- fire" },
+        { "title": "3 & 4","level": "Level 4", "id": 34, "char":"水", "hiragana": "(すい, みず)", "define": "- water" },
+        { "title": "3 & 4","level": "Level 4", "id": 35, "char":"木", "hiragana": "(もく, き)", "define": "- tree" },
+        { "title": "3 & 4","level": "Level 4", "id": 36, "char":"金", "hiragana": "(きん, かね)", "define": "- money, - gold" },
+        { "title": "3 & 4","level": "Level 4", "id": 37, "char":"土", "hiragana": "(ど, つち)", "define": "- ground, - soil" },
+        { "title": "3 & 4","level": "Level 4", "id": 38, "char":"今", "hiragana": "(いま, こん)", "define": "- now" },
+        { "title": "3 & 4","level": "Level 4", "id": 39, "char":"半", "hiragana": "(はん)", "define": "- a half" },
+        { "title": "3 & 4","level": "Level 4", "id": 40, "char":"時", "hiragana": "(じ, と, とき)", "define": "- hour, time" }
+    ]
+}
+    
+    
+    
+    
